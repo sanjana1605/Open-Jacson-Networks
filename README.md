@@ -20,7 +20,6 @@ Visual components and Python
 
 
 ## Program:
-![image](https://github.com/sanjana1605/Open-Jacson-Networks/assets/155608340/3c19c67b-278f-4ec1-8580-dfa0903a302c)
 
 
 
