@@ -24,6 +24,8 @@ Visual components and Python
 
 
 
+
+
 ## Output
 
 ## Result
